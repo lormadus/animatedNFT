@@ -1,0 +1,13 @@
+{
+  "totalSupply": 16,
+  "height": 1000,
+  "width": 1000,
+  "debug": false,
+  "layersOrder": ["Background", "Landscape", "Ball", "Hat"],
+  "quality": 95,
+  "framesPerSecond": 12,
+  "numberOfFrames": 12,
+  "saveIndividualFrames": false,
+  "description": "Your description here",
+  "baseUri": "ipfs://NewUriToReplace"
+}
